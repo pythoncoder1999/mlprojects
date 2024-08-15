@@ -1,0 +1,4 @@
+[ 2024-08-15 12:11:33,359 ] 20 root - INFO - Entered the data ingestion method or component
+[ 2024-08-15 12:11:33,368 ] 23 root - INFO - Read dataset as dataframe
+[ 2024-08-15 12:11:33,378 ] 26 root - INFO - Saved dataset as in raw data path
+[ 2024-08-15 12:11:33,387 ] 30 root - INFO - Saved datasets as for train and test data path
