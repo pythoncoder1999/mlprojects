@@ -15,3 +15,10 @@ We now create setup.py, which is responsible for creating machine learning appli
 We also create requirements.txt, which gives all modules to use.
 
 pip install -r requirements.txt will download all files.
+
+
+
+components contains all the modules
+
+pipelines runs modules sequentially
+
