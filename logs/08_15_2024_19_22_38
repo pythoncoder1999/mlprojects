@@ -1,0 +1,13 @@
+[ 2024-08-15 19:22:40,262 ] 23 root - INFO - Entered the data ingestion method or component
+[ 2024-08-15 19:22:40,267 ] 26 root - INFO - Read dataset as dataframe
+[ 2024-08-15 19:22:40,273 ] 29 root - INFO - Saved dataset as in raw data path
+[ 2024-08-15 19:22:40,280 ] 33 root - INFO - Saved datasets as for train and test data path
+[ 2024-08-15 19:22:40,297 ] 41 root - INFO - Read train and test data completed
+[ 2024-08-15 19:22:40,297 ] 30 root - INFO - Numerical columns standard scaling completed
+[ 2024-08-15 19:22:40,298 ] 31 root - INFO - Categorical columns standard scaling completed
+[ 2024-08-15 19:22:40,323 ] 43 root - INFO - Index(['gender', 'race/ethnicity', 'parental level of education', 'lunch',
+       'test preparation course', 'math score', 'reading score',
+       'writing score'],
+      dtype='object')
+[ 2024-08-15 19:22:40,325 ] 54 root - INFO - Applying preprocessing object on training dataframe and testing dataframe
+[ 2024-08-15 19:22:40,347 ] 62 root - INFO - Saved preprocessing object.
