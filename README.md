@@ -22,3 +22,16 @@ components contains all the modules
 
 pipelines runs modules sequentially
 
+
+
+
+
+CODING
+
+
+
+When deploying with elastic beanstalk
+.ebextensions >
+python.config
+
+Must copy app.py code to application.py so application:application in config file works and remove debug option
